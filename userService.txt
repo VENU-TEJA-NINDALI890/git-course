@@ -1,1 +1,3 @@
 get the data from the database ...
+
+create a suitable avatar for user
